@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmanecci/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "Game",
+    "Node.JS",
+    "Bootcamp"
+  ],
+  "author": "Patty Manecci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmanecci/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/pmanecci/jest-another-RPG#readme"
+}
